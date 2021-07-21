@@ -1,4 +1,4 @@
-<h2 align = "center"> Olá, mundo! : earth_americas : </h2>
+<h2 align="center">Hello World! :earth_americas:</h2>
 
 <!--
 **brunodiascultural/brunodiascultural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
