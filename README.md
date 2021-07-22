@@ -1,4 +1,4 @@
-<h2 align="center">Hello World! :earth_americas:</h2>
+<h2 align="center">Hello World! :earth_americas:🇧🇷</h2>
 
 🖥.   Profissional de TI com certificação na área e formação em produção fonográfica, com mais de 15 anos trabalhando como autônomo com aplicações, suportes e manutenção de PC’s e Macintosh.
 
