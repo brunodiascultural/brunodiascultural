@@ -1,6 +1,7 @@
 <h2 align="center">Hello World! :earth_americas:🇧🇷</h2>
+📟    Dev Web Full Stack Jr | Estudante e Monitor de Web Full Stack na SoulCode Academy.
 
-🖥.   Profissional de TI com certificação na área e formação em produção fonográfica, com mais de 15 anos trabalhando como autônomo com aplicações, suportes e manutenção de PC’s e Macintosh.
+🖥.   Profissional de TI com certificação na área e formação em produção fonográfica, trabalhando como autônomo com aplicações, suportes e manutenção de PC’s e Macintosh.
 
 <a href="https://github.com/brunodiascultural">
     <img src="https://img.shields.io/github/followers/brunodiascultural?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
