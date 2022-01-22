@@ -36,6 +36,7 @@
          src="https://github-profile-trophy.vercel.app/?username=brunodiascultural&column=7&theme=gruvbox&no-frame=true" 
          width="1200px" 
     /> 
+    ![Snake animation](https://github.com/brunodiascultural/brunodiascultural/blob/output/github-contribution-grid-snake.svg)
 </details>
 
 
