@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-<details>
+<div>
     <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodiascultural&langs_count=8&layout=compact&theme=gruvbox" 
@@ -36,8 +36,8 @@
          src="https://github-profile-trophy.vercel.app/?username=brunodiascultural&column=7&theme=gruvbox&no-frame=true" 
          width="1200px" 
     /> 
-    ![Snake animation](https://github.com/brunodiascultural/brunodiascultural/blob/output/github-contribution-grid-snake.svg)
-</details>
+    
+</div>
 
 
 
