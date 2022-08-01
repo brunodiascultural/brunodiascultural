@@ -1,5 +1,5 @@
 <h2 align="center">Hello World! :earth_americas:🇧🇷</h2>
-📟    Dev Web Full Stack Jr | Estudante e Monitor de Web Full Stack na SoulCode Academy.
+📟    Dev Web Full Stack Jr.
 
 🖥.   Profissional de TI com certificação na área e formação em produção fonográfica, trabalhando como autônomo com aplicações, suportes e manutenção de PC’s e Macintosh.
 
